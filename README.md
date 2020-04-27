@@ -1,6 +1,6 @@
-# The Hacking Project (Week [i?] - Day [i?])
+# The Hacking Project (Week [04] - Day [01])
 
-## Project : [project_name?]
+## Project : [2020_04_27_Sinatra_App]
 
 /!\ Be careful ! Configure the ruby version in Gemfile to adapt the program to your own ruby version /!\
 
