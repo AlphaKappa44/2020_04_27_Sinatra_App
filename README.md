@@ -1,3 +1,5 @@
+<!-- Réalisé jusqu'au 2.4.3 "redirect -->
+
 # The Hacking Project (Week [04] - Day [01])
 
 ## Project : [2020_04_27_Sinatra_App]
